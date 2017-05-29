@@ -1,0 +1,33 @@
+4
+"Plastikowy topor"
+1
+7
+65
+1
+0
+1
+0
+"Rubinowy topor"
+10
+25
+450
+1
+0
+3
+0
+"Szmaragdowy topor"
+15
+35
+470
+1
+0
+1
+0
+"Slunski kilof destrukcji"
+80
+90
+1000
+1
+0
+5
+0

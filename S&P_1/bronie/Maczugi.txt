@@ -1,0 +1,33 @@
+4
+"Kamienna maczuga"
+1
+10
+90
+1
+0
+0
+10
+"Maczuga Herkulesa"
+15
+25
+350
+1
+0
+0
+20
+"bieszczadzki kij nordicwalkingu"
+20
+40
+550
+1
+0
+2
+20
+"Maczugi chrupki"
+50
+60
+1100
+1
+0
+2
+40

@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1494971586 source:c:\users\daronek\desktop\cpp\szableipantofle\szableipantofle\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<conio.h>
+	<windows.h>
+
+1494967986 source:c:\users\matura\desktop\szableipantofle\szableipantofle\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<conio.h>
+	<windows.h>
+
+1495659758 source:c:\users\daronek\desktop\cpp\szableipantofle\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<conio.h>
+	<windows.h>
+	<fstream>
+	<sstream>
+
+1495621445 source:c:\users\ad1\desktop\szableipantofle\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<conio.h>
+	<windows.h>
+	<fstream>
+	<sstream>
+
+1495573986 source:i:\szableipantofle\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<conio.h>
+	<windows.h>
+	<fstream>
+	<sstream>
+

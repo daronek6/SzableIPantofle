@@ -1,0 +1,26 @@
+5
+"Zimowe Pantofle"
+1
+5
+3
+60
+"Sandacze Wikinga"
+3
+0
+8
+100
+"AirMaxy90"
+0
+5
+30
+400
+"Desanty Rejniaka"
+8
+40
+1
+250
+"Wislane Popylacze Jezusa"
+10
+20
+20
+320

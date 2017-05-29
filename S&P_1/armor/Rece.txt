@@ -1,0 +1,26 @@
+5
+"welniane rekawiczki"
+1
+7
+0
+45
+"Karwasze Wikingow"
+3
+5
+0
+100
+"Frota najacza"
+3
+15
+5
+190
+"Pagon wedrowniczy "
+5
+30
+5
+260
+"Radomskie bransolety chytrosci"
+10
+20
+3
+280

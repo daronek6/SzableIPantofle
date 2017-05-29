@@ -1,0 +1,26 @@
+5
+"Zimowa czapka"
+2
+10
+0
+40
+"Helm Wikingow"
+4
+20
+3
+110
+"fullcap"
+8
+10
+0
+200
+"Beret Rejniaka"
+5
+50
+0
+250
+"Bursztynowa przylbica Baltyku"
+10
+60
+0
+350

@@ -1,0 +1,26 @@
+5
+"Gruby sweter"
+4
+20
+0
+80
+"okrycie Wikingow"
+6
+35
+0
+125
+"Bluza PROSTO"
+6
+40
+5
+210
+"Mundur Rejniaka"
+10
+55
+5
+300
+"Solna kolczuga Wieliczki"
+15
+90
+-2
+450
